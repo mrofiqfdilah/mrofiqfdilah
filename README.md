@@ -1,6 +1,5 @@
 ### Hi there 👋 , Im M Rofiq fadilah 
 <h4>A vocational school student who has a greater interest in web development 💻</h4>
-
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## Tools and tech
 <p align="left">
@@ -40,3 +39,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+- 🌟 Currently I am building my own startup @foodcareid and I even competed my startup idea and passed at the national level
+
+- 👩🏽‍💻 https://rofiqazk.vercel.app/
+
+- 📫 How to reach me **mrofiqfadil@gmail.com**
