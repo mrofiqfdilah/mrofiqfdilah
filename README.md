@@ -40,7 +40,7 @@
   </a>
 </p>
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-- 🌟 Currently I am building my own startup @foodcareid and I even competed my startup idea and passed at the national level
+- 📌 Currently I am building my own startup @foodcareid and I even competed my startup idea and passed at the national level
 
 - 👩🏽‍💻 https://rofiqazk.vercel.app/
 
