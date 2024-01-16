@@ -4,13 +4,17 @@
 
 ## Tech and Tools  ⚙️
 
-> Tools and technologies I frequently use:
+> Tools and Framework I frequently use:
 
 <table>
     <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
             <br>Laravel
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="laravel" />
+            <br>Node Js
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
