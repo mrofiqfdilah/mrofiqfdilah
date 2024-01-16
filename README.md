@@ -14,15 +14,11 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
-            <br>Node.js
+            <br>Node
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
-            <br>React.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="flutter" />
-            <br>Flutter
+            <br>React
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="tailwind" />
@@ -30,7 +26,7 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="vue" />
-            <br>Vue.js
+            <br>Vue
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
@@ -41,7 +37,7 @@
             <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=Github&theme=dark"
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
                 width="48" height="48" alt="GitHub" />
             <br>GitHub
         </td>
