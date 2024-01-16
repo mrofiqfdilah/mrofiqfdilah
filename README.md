@@ -14,11 +14,11 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
-            <br>Node.js
+            <br>Node
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
-            <br>React.js
+            <br>React
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="flutter" />
@@ -30,12 +30,9 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="vue" />
-            <br>Vue.js
+            <br>Vue
         </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="bash" />
-            <br>Bash
-        </td>
+      
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
@@ -45,14 +42,11 @@
             <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+            <img src="https://skillicons.dev/icons?i=Github&theme=dark"
                 width="48" height="48" alt="GitHub" />
             <br>GitHub
         </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="bootstrap" />
-            <br>Bootstrap
-        </td>
+       
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode" />
             <br>VSCode
