@@ -47,11 +47,6 @@
             <br>GitHub
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
-                width="48" height="48" alt="GitLab" />
-            <br>GitLab
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
             <br>HTML
         </td>
@@ -65,29 +60,14 @@
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
             <br>Bootstrap
         </td>
+       
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-            <br>Tailwind
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="bash" />
+            <br>Vscode
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-            <br>Figma
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-            <br>MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-            <br>Linux
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-            <br>Bash
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/laravel.svg" alt="Laravel icon" width="65" height="65" />
-            <br>Laravel
+            <img src="https://techstack-generator.vercel.app/postman.svg" alt="Laravel icon" width="65" height="65" />
+            <br>Postman
         </td>
     </tr>
 </table>
