@@ -7,21 +7,26 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="mysql" />
+            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
             <br>Laravel
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>Javascript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
             <br>React Js
         </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-            <br>JQuery
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+            <br>Vue Js
         </td>
+         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+      
         <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
                 width="48" height="48" alt="Git" />
