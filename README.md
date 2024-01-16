@@ -1,6 +1,6 @@
 # 👋 Hi, I'm M Rofiq Fadilah ~👩🏽‍💻
 
-**`Students who have a greater interest in web development`**
+**`Enthusiastic student with a keen interest in web development`**
 
 ## Tech and Tools  ⚙️
 
@@ -60,13 +60,12 @@
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
             <br>Bootstrap
         </td>
-       
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="bash" />
-            <br>Vscode
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+            <br>VSCode
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/postman.svg" alt="Laravel icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/postman.svg" alt="Postman icon" width="65" height="65" />
             <br>Postman
         </td>
     </tr>
