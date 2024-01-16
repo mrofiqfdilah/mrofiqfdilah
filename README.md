@@ -1,9 +1,11 @@
 # 👋 Hi, I'm M Rofiq Fadilah
-
-<h4>A vocational school student who has a greater interest in web development 💻</h4>
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+**`Students who have more interest in web development`**
 
-## Tools and tech
+## Tech and Tools  ⚙️
+
+> Tools and technologies that I use frequently
+## 
 <table>
     <tr>
         <td align="center" width="96">
