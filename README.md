@@ -7,8 +7,8 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="mysql" />
-            <br>Java
+            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="mysql" />
+            <br>Laravel
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
