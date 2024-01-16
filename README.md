@@ -64,8 +64,9 @@
             <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
             <br>VSCode
         </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/postman.svg" alt="Postman icon" width="65" height="65" />
+       <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="VSCode" />
+           
             <br>Postman
         </td>
     </tr>
