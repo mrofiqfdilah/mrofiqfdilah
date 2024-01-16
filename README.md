@@ -22,10 +22,11 @@
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
             <br>Tailwind
         </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="node" />
-            <br>Node Js
-        </td>
+         <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="Node.js icon" />
+    <br>Node.js
+</td>
+
       
         <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
