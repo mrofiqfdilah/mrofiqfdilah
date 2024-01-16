@@ -44,6 +44,4 @@
 
 - 🌟 Currently I am building my own startup @foodcareid and I even competed my startup idea and passed at the national level
 
-- 👩🏽‍💻 https://rofiqazk.vercel.app/
-
 - 📫 How to reach me **mrofiqfadil@gmail.com**
