@@ -22,10 +22,18 @@
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
             <br>Tailwind
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="jquery" />
+            <br>Bash
+        </td>
          <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="Node.js icon" />
-    <br>Node.js
-</td>
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="tailwind" />
+            <br>Figma
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+            <br>MySQL
+        </td>
 
       
         <td align="center" width="96">
