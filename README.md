@@ -14,11 +14,11 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
-            <br>Node
+            <br>Node.js
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
-            <br>React
+            <br>React.js
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="flutter" />
@@ -30,9 +30,8 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="vue" />
-            <br>Vue
+            <br>Vue.js
         </td>
-      
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
@@ -46,7 +45,6 @@
                 width="48" height="48" alt="GitHub" />
             <br>GitHub
         </td>
-       
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode" />
             <br>VSCode
