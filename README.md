@@ -25,10 +25,6 @@
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="vue" />
-            <br>Vue
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
         </td>
