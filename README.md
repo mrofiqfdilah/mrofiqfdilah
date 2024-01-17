@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M Rofiq Fadilah ~ <img src="https://i.pinimg.com/originals/ab/af/4f/abaf4f1d4ef6672457f65235ef3077f7.png" width="48" height="48" alt="laravel" />
+# 👋 Hi, I'm M Rofiq Fadilah ~ <img src="https://i.pinimg.com/originals/66/f5/be/66f5be4cc133011427ddb1a9ddba1b83.jpg" width="48" height="48" alt="laravel" />
 
 **`Enthusiastic student with a passion for web development`**
 
@@ -37,9 +37,9 @@
             <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+            <img src="https://skillicons.dev/icons?i=git&theme=dark"
                 width="48" height="48" alt="GitHub" />
-            <br>GitHub
+            <br>Git
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode" />
