@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M Rofiq Fadilah ~ <img src="https://i.pinimg.com/originals/66/f5/be/66f5be4cc133011427ddb1a9ddba1b83.jpg" width="30" height="30" style="border-radius:8px;" alt="laravel" />
+# 👋 Hi, I'm M Rofiq Fadilah ~   <img src="https://www.codewars.com/users/mrofiqfdilah/badges/micro" width="48" height="48" alt="laravel" />
 
 **`Enthusiastic student with a passion for web development`**
 
