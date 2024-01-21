@@ -1,10 +1,10 @@
-# Hi👋, I'm Rofiqazk ~   <img src="https://www.codewars.com/users/mrofiqfdilah/badges/micro" alt="code" />
+# Hi There👋, I'm Rofiqazk ~   <img src="https://www.codewars.com/users/mrofiqfdilah/badges/micro" alt="code" />
 
 **`Enthusiastic student with a passion for web development`**
 
 ## Tech and Tools  ⚙️
 
-> Tools and Frameworks I frequently use:
+> Tools and Frameworks that I use frequently and that I am currently learning about:
 
 <table>
     <tr>
