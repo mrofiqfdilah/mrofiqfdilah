@@ -1,4 +1,4 @@
-# Hi There 👋 , I'm Rofiqazk ~   <img src="https://www.codewars.com/users/mrofiqfdilah/badges/micro" alt="code" />
+# Hi There 👋 , I'm Rofiqazk ~
 
 **`Enthusiastic student with a passion for web development`**
 
@@ -11,10 +11,6 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="laravel" />
             <br>Laravel
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
-            <br>Node
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
