@@ -12,6 +12,15 @@
             <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="laravel" />
             <br>Laravel
         </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
+            <br>Postman
+        </td>
+         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git&theme=dark"
+                width="48" height="48" alt="GitHub" />
+            <br>Git
+        </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
             <br>React
@@ -29,17 +38,8 @@
             <br>MySQL
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=git&theme=dark"
-                width="48" height="48" alt="GitHub" />
-            <br>Git
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode" />
             <br>VSCode
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
-            <br>Postman
         </td>
     </tr>
 </table>
