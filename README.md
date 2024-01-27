@@ -1,7 +1,9 @@
 # Hi There 👋 , I'm Rofiqazk ~
 
 **`Enthusiastic student with a passion for web development`**
-<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+- 💻 I'm currently learning Rest Api in **Laravel** and **Node JS**
+- 📫 How to reach me **mrofiqfadil@gmail.com**
+ <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## Tech and Tools 
 
 >The frameworks and tools I'm currently use and learning ⚙️
