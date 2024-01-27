@@ -48,7 +48,7 @@
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
-
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -70,8 +70,6 @@
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VSCode" />
       <br>VSCode
