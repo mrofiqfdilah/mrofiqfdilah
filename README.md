@@ -28,6 +28,7 @@
             <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="node" />
             <br>Node
         </td>
+    </tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
