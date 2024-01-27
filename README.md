@@ -13,6 +13,10 @@
             <br>Laravel
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=codeigniter&theme=dark" width="48" height="48" alt="laravel" />
+            <br>Codeigniter
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
             <br>React
         </td>
