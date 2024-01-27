@@ -4,7 +4,7 @@
 
 ## Tech and Tools 👩🏽‍💻
 
-> Tools and Frameworks that I use frequently and that I am currently learning :
+>Frameworks that I use frequently and that I am currently learning :
 
 <table>
     <tr>
@@ -20,6 +20,10 @@
             <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="tailwind" />
             <br>Tailwind
         </td>
+</table>
+
+>Tools that I often use:
+<table>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
@@ -42,4 +46,5 @@
             <br>VSCode
         </td>
     </tr>
-</table>
+    </table>
+
