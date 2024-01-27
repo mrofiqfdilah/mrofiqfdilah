@@ -13,10 +13,6 @@
             <br>Laravel
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=codeigniter&theme=dark" width="48" height="48" alt="laravel" />
-            <br>Codeigniter
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react" />
             <br>React
         </td>
@@ -32,10 +28,6 @@
             <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="node" />
             <br>Node
         </td>
-</table>
-
->Tools :
-<table>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma" />
             <br>Figma
