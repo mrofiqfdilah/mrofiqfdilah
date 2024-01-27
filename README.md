@@ -2,9 +2,9 @@
 
 **`Enthusiastic student with a passion for web development`**
 
-## Tech and Tools 👩🏽‍💻
+## Tech and Tools 
 
->Frameworks :
+>The frameworks and tools I'm currently use and learning ⚙️
 
 <table>
   <tr>
