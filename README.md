@@ -24,6 +24,10 @@
             <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="vue" />
             <br>Vue
         </td>
+         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=node&theme=dark" width="48" height="48" alt="node" />
+            <br>Node
+        </td>
 </table>
 
 >Tools :
