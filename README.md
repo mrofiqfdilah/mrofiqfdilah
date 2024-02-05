@@ -1,4 +1,4 @@
-# Hi There 👋 , I'm Rofiqazk 
+# Hi There 👋 , I'm Rofiqazk
 **`Enthusiastic student with a passion for web development`**
 ## Tech and Tools
 >The frameworks and tools I'm currently use and learning ⚙️
