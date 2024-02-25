@@ -18,10 +18,6 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="node" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="65" />
       <br>Javascript
     </td>
