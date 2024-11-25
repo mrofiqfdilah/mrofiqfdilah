@@ -5,11 +5,11 @@
 
 <p align="left">A software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
 
-###
+<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="left">Tools and technologies ⚙️</h2>
 
-###
+<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="left">
   <!-- Bar 1: JavaScript, PHP, React, Laravel, NodeJS, MySQL, CodeIgniter -->
