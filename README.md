@@ -1,12 +1,12 @@
-<h1 align="left">Hi There 👋 </h1>
+<h1 align="left">👨‍💻 M Rofiq Fadilah ~</h1>
 
 ###
 
-<p align="left">My name is M Rofiq Fadilah, I am a software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
+<p align="left">I am a software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
 
 ###
 
-<h2 align="left">Tech Stac</h2>
+<h2 align="left">Tools and technologies ⚙️</h2>
 
 ###
 
