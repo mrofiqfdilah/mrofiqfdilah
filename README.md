@@ -11,6 +11,9 @@ My name is M Rofiq Fadilah. I am a software engineering student with a passion f
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/74943865?s=48&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/react/react.png"></code>
-<code><img height="20" src="https://nodejs.org/static/images/logo.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg"></code>
-
+<code><img height="40" src="https://nodejs.org/static/images/logo.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/82d3ca032a1fc98a8a6c5b1e9a9f4f78979d79c9/topics/bash/bash.png"></code>
+<code><img height="40" src="https://www.postman.com/favicon-32x32.png"></code>
+<code><img height="40" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png"></code>
