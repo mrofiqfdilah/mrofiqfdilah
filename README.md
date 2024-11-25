@@ -12,4 +12,4 @@ My name is M Rofiq Fadilah. I am a software engineering student with a passion f
 <code><img height="40" src="https://avatars.githubusercontent.com/u/74943865?s=48&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/530398b9bc0095eae7b5cec0cc16f74a802d3743/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/0118d2ecadef735acccf7e3a0d9c5f872b4277e6/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/0118d2ecadef735acccf7e3a0d9c5f872b4277e6/topics/nodejs/node.png"></code>
