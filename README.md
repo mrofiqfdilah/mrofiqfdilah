@@ -28,25 +28,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
   </div>
 
-  <!-- Bar 3: Flutter, Dart, Bash -->
-  <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  </div>
+  
 
-  <!-- Bar 4: VSCode, Postman, Git -->
-  <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="40" alt="jwt logo" />
-  </div>
+    
 </div>
 
 
