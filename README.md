@@ -37,6 +37,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     <img width="12" />
   </div>
+
+  <img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrofiqfdilah&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
+
 </div>
 
 
