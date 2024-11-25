@@ -1,8 +1,8 @@
-<h1 align="left">👨‍💻 M Rofiq Fadilah ~</h1>
+<h1 align="left">Hi There 👋, Im M Rofiq Fadilah ~</h1>
 
 ###
 
-<p align="left">I am a software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
+<p align="left">A software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
 
 ###
 
