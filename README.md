@@ -26,10 +26,7 @@
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-  </div>
-
-  <!-- Bar 2: Flutter, Dart, Bash -->
-  <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
+     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
