@@ -12,7 +12,7 @@
 
 <div align="left">
   <!-- Bar 1: JavaScript, PHP, React, Laravel, NodeJS, MySQL, CodeIgniter -->
-  <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -40,7 +40,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+    <img width="12" />
   </div>
 </div>
 
