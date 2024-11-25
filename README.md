@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A software engineering student with a passion for applying problem-solving techniques to create impactful >technology products.</p>
+<p align="left">A software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
 
 ###
 
