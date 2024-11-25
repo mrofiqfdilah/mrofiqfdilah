@@ -18,16 +18,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  </div>
-
-  <!-- Bar 2: Laravel, Node.js, MySQL -->
-  <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express js logo" />
   </div>
+
+  
+  
 
   <!-- Bar 3: Flutter, Dart, Bash -->
   <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
@@ -47,12 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </div>
 
-  <!-- Bar 5: CodeIgniter, Express.js -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express js logo" />
-  </div>
+
 </div>
 
 
