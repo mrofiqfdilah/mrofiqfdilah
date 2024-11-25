@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=mrofiqfdilah&label=PROFILE+VIEWS&style=flat&color=blue">
 <h1 align="left">Hi There 👋, Im M Rofiq Fadilah ~</h1>
 
 ###
@@ -40,10 +41,6 @@
   </div>
 </div>
 
-<div>
-   <img src="https://komarev.com/ghpvc/?username=mrofiqfdilah&label=PROFILE+VIEWS&style=flat&color=blue">
-
-</div>
 
 ###
 
