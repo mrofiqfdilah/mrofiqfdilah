@@ -41,7 +41,7 @@
 
  <be>
 
-<img alt="F AR Most Used Languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrofiqfdilah&layout=compact&theme=dark&bg_color=0A0A0A" height="192px"/>
+
 
 
 
