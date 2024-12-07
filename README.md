@@ -1,10 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=mrofiqfdilah&label=PROFILE+VIEWS&style=flat&color=blue">
 <h1 >Hi There 👋, Im M Rofiq Fadilah ~</h1>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<p align="left">A software engineering student with a passion for applying problem-solving techniques to create impactful technology products.</p>
-
 <h2 align="left">Tools and technologies ⚙️</h2>
 
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
