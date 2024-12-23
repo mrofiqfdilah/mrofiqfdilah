@@ -37,18 +37,33 @@
             <br>Express
         </td>
     </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="icon" />
-            <br>Postman
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
-            <br>VSCode
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="icon" />
-            <br>MySQL
-        </td>
-    </tr>
+   <tr>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="icon" />
+        <br>Postman
+    </td>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
+        <br>VSCode
+    </td>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="icon" />
+        <br>MySQL
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="icon" />
+        <br>Git
+    </td>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="icon" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96" height="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="icon" />
+        <br>Figma
+    </td>
+</tr>
+
 </table>
