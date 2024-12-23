@@ -36,7 +36,9 @@
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
             <br>Express
         </td>    
-           <td align="center" width="96" height="96">
+    </tr>
+    <tr>
+             <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
             <br>HTML
         </td>
@@ -48,8 +50,6 @@
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
             <br>Bootstrap
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="icon" />
             <br>Postman
