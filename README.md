@@ -1,58 +1,34 @@
-## ⚙️ Technologies and tools that I have worked with
-
 <table>
     <tr>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
-            <br>HTML
+            <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="icon" />
+            <br>Laravel
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon"/>
-            <br>CSS
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="icon"/>
+            <br>React Js
         </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
             <br>Javascript
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
-            <br>Typescript
+            <img src="https://skillicons.dev/icons?i=php" alt="icon" width="48" height="48" />
+            <br>PHP
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="icon" />
-            <br>React Js
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
+            <br>Node Js
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="icon" />
-            <br>Next Js
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
+            <br>Tailwind
         </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=git"
-                width="48" height="48" alt="icon" />
-            <br>Git
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=github"
-                width="48" height="48" alt="icon" />
-            <br>Github
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="icon" />
-            <br>Figma
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="icon" />
-            <br>MongoDB
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
+            <br>Bootstrap
         </td>
     </tr>
 </table>
