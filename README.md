@@ -36,6 +36,18 @@
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
             <br>Express
         </td>    
+           <td align="center" width="96" height="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
+            <br>HTML
+        </td>
+        <td align="center" width="96" height="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon" />
+            <br>CSS
+        </td>
+        <td align="center" width="96" height="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
+            <br>Bootstrap
+        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
@@ -61,20 +73,6 @@
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="icon" />
             <br>Figma
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
-            <br>HTML
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon" />
-            <br>CSS
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
-            <br>Bootstrap
         </td>
     </tr>
 </table>
