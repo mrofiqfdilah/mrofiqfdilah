@@ -24,8 +24,6 @@
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
             <br>Tailwind
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="icon" />
             <br>Dart
@@ -38,6 +36,8 @@
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
             <br>Express
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="icon" />
             <br>Postman
