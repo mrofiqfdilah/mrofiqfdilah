@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrofiqfdilah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mrofiqfdilah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Netlify&logoColor=white)](https://mrofiqfdilahdev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Netlify&logoColor=white)](https://mrofiqfdilahdev.netlify.app)
 
 ## Tech Stack⚙️
 
