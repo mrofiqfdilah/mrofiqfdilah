@@ -35,7 +35,9 @@
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
             <br>Express
-        </td>
+        </td>    
+    </tr>
+    <tr>
     <td align="center" width="96" height="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="icon" />
         <br>Postman
@@ -48,8 +50,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="icon" />
         <br>MySQL
     </td>
-</tr>
-<tr>
     <td align="center" width="96" height="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="icon" />
         <br>Git
