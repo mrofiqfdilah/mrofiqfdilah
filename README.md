@@ -3,6 +3,7 @@
 **`enjoy applying problem solving techniques to technology products.`**
 
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrofiqfdilah) 
 
 ## Tech Stack⚙️
 
@@ -88,6 +89,3 @@
 </table>
 
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrofiqfdilah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mrofiqfdilah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
