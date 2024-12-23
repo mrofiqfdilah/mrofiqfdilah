@@ -2,7 +2,9 @@
 
 **`enjoy applying problem solving techniques to technology products.`**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrofiqfdilah) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrofiqfdilah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mrofiqfdilah/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=Netlify&logoColor=white)](https://mrofiqfdilahdev.netlify.app)
 
 ## Tech Stack⚙️
 
@@ -87,4 +89,3 @@
     </tr>
 </table>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
