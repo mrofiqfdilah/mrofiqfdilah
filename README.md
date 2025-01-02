@@ -4,8 +4,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23C13584.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrofiqfdilah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mrofiqfdilah/)
-[![Portfolio](https://img.shields.io/badge/PortfolioSite-%230A0A0A.svg?logo=Netlify&logoColor=white)](https://mrofiqfdilahdev.netlify.app)
-
 
 ## Tech Stack⚙️
 
