@@ -1,3 +1,3 @@
 ```javascript
-console.log("Hi👋, I'm Rofiqazk")
+console.log("I build stuff")
 ```
