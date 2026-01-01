@@ -1,6 +1,6 @@
-<h1 style="font-weight: bold; font-size: 48px;">@mrofiqfdilah ~</h1>
-
-**`"Transforming challenges into digital solutions that make an impact"`**
+<h1 style="font-weight: bold; font-size: 48px;">
+  Hi 👋 I’m Rofiq, building things as a Full-Stack Developer
+</h1>
 
 ## Tech Stack⚙️
 
