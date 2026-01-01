@@ -9,7 +9,7 @@
 </p>
 
 
-## Tech Stack⚙️
+## Tech Stack
 
 > some technologies that I often use and am currently learning
 
