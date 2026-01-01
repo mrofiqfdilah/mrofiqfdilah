@@ -1,5 +1,5 @@
 <h1 style="font-weight: bold; font-size: 48px;">
-  Hi :) I'm Rofiq, a Full-Stack Developer
+Rofiq here — building things across the stack.
 </h1>
 
 <p align="left">
