@@ -2,6 +2,8 @@
   Hi 👋 I’m Rofiq, building things as a Full-Stack Developer
 </h1>
 
+Visit my portfolio 👉 [mrofiqfadilah.site](https://mrofiqfadilah.site/)
+
 ## Tech Stack⚙️
 
 > some technologies that I often use and am currently learning
