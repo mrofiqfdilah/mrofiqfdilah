@@ -3,7 +3,7 @@ Yosh.. Rofiq here — building things across the stack.
 </h1>
 
 <p align="left">
-  <a href="https://mrofiqfadilah.site" style="color:red;" target="_blank">
+  <a href="https://mrofiqfadilah.site" target="_blank">
     <strong>Visit My Portfolio Site</strong>
   </a>
 </p>
