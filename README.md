@@ -2,7 +2,12 @@
   Hi 👋 I’m Rofiq, building things as a Full-Stack Developer
 </h1>
 
-Visit my portfolio 👉 [mrofiqfadilah.site](https://mrofiqfadilah.site/)
+<p align="center">
+  <a href="https://mrofiqfadilah.site" target="_blank">
+    <strong>Visit My Portfolio :)</strong>
+  </a>
+</p>
+
 
 ## Tech Stack⚙️
 
@@ -34,6 +39,11 @@ Visit my portfolio 👉 [mrofiqfadilah.site](https://mrofiqfadilah.site/)
       <td align="center" width="96" height="96">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <br>Python
+</td>
+      <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         width="48" height="48" alt="Node.js" />
+    <br>Node.js
 </td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
