@@ -47,25 +47,5 @@
     </tr>
 </table>
 
-<h2>🏆 Achievements</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
-  <div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background: #fdfdfd;">
-    🥇 <strong>1st Place and Best Solution Award</strong><br/>
-    Web Apps Competition for Leading Vocational Schools 2024<br/>
-    <i>by Tanah Laut State Polytechnic</i>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background: #fdfdfd;">
-    🏅 <strong>Medallion of Excellence</strong><br/>
-    National Student Skills Competition (LKS) in Web Technologies 2024<br/>
-    <i>by KEMENDIKBUD, Puspresnas, BPTI</i>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 16px; border-radius: 12px; background: #fdfdfd;">
-    🥇 <strong>1st Place</strong><br/>
-    Province LKS in Web Technologies 2024<br/>
-    <i>by Central Kalimantan Education Office</i>
-  </div>
-  <!-- Lanjutkan untuk semua pencapaian lainnya -->
-</div>
 
 
