@@ -17,7 +17,6 @@
          width="48" height="48" alt="CodeIgniter" />
     <br>CodeIgniter
 </td>
-
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="icon"/>
             <br>React Js
