@@ -2,9 +2,9 @@
   Hi 👋 I’m Rofiq, building things as a Full-Stack Developer
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://mrofiqfadilah.site" target="_blank">
-    <strong>Visit My Portfolio :)</strong>
+    <strong>Visit My Portfolio Site</strong>
   </a>
 </p>
 
