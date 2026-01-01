@@ -17,14 +17,6 @@
             <br>React Js
         </td>
         <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
-            <br>Javascript
-        </td>
-        <td align="center" width="96" height="96">
-            <img src="https://skillicons.dev/icons?i=php" alt="icon" width="48" height="48" />
-            <br>PHP
-        </td>
-        <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
             <br>Node Js
         </td>
@@ -36,6 +28,10 @@
             <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="icon" />
             <br>Flutter
         </td>
+      <td align="center" width="96" height="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
         <td align="center" width="96" height="96">
             <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
             <br>Express
