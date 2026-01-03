@@ -12,7 +12,7 @@
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
         <achievements>
-            <achievement>
+            <achievement year="2024">
                 Finalist Web Application Competition 2024
             </achievement>
             <achievement>
