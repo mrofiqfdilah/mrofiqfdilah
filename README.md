@@ -11,6 +11,14 @@
         <stack>
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
+        <achievements>
+            <achievement>
+                Finalist Web Application Competition 2024
+            </achievement>
+            <achievement>
+                Finalist Web Application Competition 2024
+            </achievement>
+        </achievements>
         <links>
             <website  url="https://mrofiqfadilah.site/" />
             <linkedin url="https://www.linkedin.com/in/mrofiqfdilah" />
