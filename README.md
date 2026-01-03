@@ -1,4 +1,4 @@
-xml
+```xml
 <rofiq>
     <head>
         <title>About Rofiq</title>
@@ -17,3 +17,4 @@ xml
         </stack>
     </body>
 </rofiq>
+```
