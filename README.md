@@ -12,8 +12,8 @@
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
         <achievements>
-            <achievement year="2024" recognizedBy="Ministry of Education and Culture of Indonesia">
-                Finalist Web Application Competition 2024
+            <achievement year="2024" recognizedBy="Tanah Laut State Polytechnic">
+                1st Place and Best Solution Award in Web Apps Competition for Leading Vocational Schools
             </achievement>
             <achievement>
                 Finalist Web Application Competition 2024
