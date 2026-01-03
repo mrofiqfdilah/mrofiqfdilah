@@ -9,7 +9,7 @@
             Computer Science student, passionate about web apps and competitive tech challenges.
         </about>
         <stack>
-            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</web_technologies>
+            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
     </body>
 </rofiq>
