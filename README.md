@@ -1,17 +1,15 @@
 ```xml
-<arwildo>
+<rofiq>
     <head>
-        <title>Software Engineer</title>
+        <title>Web Apps Software Engineer</title>
     </head>
     <body>
         <about>
-            Experienced Software Engineer with 6+ years in full-stack development,
-            specializing in scalable software and web applications.
+            Full-stack Software Engineer with 1.5 years of hands-on experience, serving both international and national clients. Computer Science student, passionate about web apps and competitive tech challenges.
         </about>
         <stack>
-            <languages>Java, JavaScript, Python, PHP, SQL</languages>
-            <web_technologies>React, Next.js, Nest.js, Redux, REST APIs, Three.js</web_technologies>
+            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</web_technologies>
         </stack>
     </body>
-</arwildo>
+</rofiq>
 ```
