@@ -12,7 +12,7 @@
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
         <achievements>
-            <achievement year="2024">
+            <achievement year="2024" recognizedBy="Ministry of Education and Culture of Indonesia">
                 Finalist Web Application Competition 2024
             </achievement>
             <achievement>
