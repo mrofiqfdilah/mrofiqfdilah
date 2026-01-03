@@ -1,7 +1,7 @@
 ```xml
 <rofiq>
     <head>
-        <title>Web Apps Software Engineer</title>
+        <title>About Rofiq</title>
     </head>
     <body>
         <about>
