@@ -1,7 +1,7 @@
 ```xml
 <rofiq>
     <head>
-        <title>About Rofiq</title>
+        <title>M Rofiq Fadilah</title>
     </head>
     <body>
         <about>
