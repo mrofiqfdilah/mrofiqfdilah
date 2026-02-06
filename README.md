@@ -11,6 +11,10 @@
         <stack>
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
         </stack>
+        <education>
+            Software Engineering '2022
+            Informatics Engineering '2025
+        </education>
         <links>
             <website  url="https://mrofiqfadilah.site/" />
             <linkedin url="https://www.linkedin.com/in/mrofiqfdilah" />
