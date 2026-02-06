@@ -6,7 +6,7 @@
     <body>
         <about>
             Software Engineer with 1.5 years of hands-on experience, serving both international and national clients.
-            Major in Informatics Engineering with 10+ achievements in programming  competitions.
+            Major in Informatics Engineering with 10+ achievements in programming contest.
         </about>
         <stack>
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
