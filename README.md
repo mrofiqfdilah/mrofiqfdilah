@@ -5,8 +5,8 @@
     </head>
     <body>
         <about>
-            Software Engineer with 1.5 years of professional experience delivering
-            web apps solutions for both international and national clients.
+            Software Engineer with 1.5 years of professional experience delivering web apps solutions
+            for both international and national clients.
         </about>
         <stack>
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
