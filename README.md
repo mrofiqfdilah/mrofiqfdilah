@@ -5,11 +5,11 @@
     </head>
     <body>
         <about>
-            Software Engineer with 1.5 years of professional experience delivering web apps solutions
+            IT Programmer with 1.5 years of professional experience delivering software solutions
             for both international and national clients.
         </about>
         <stack>
-            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
+            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS, Python</technologies>
         </stack>
         <links>
             <website  url="https://mrofiqfadilah.site/" />
