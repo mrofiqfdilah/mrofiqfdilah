@@ -22,7 +22,7 @@
         </links>
     </body>
 </rofiq>
-    <profile>
-    <image src="https://www.mrofiqfadilah.site/assets/logo-Baq71Wkx.svg" alt="Rofiq Profile" />
-</profile>
 ```
+<div>
+    <img src="https://www.mrofiqfadilah.site/assets/logo-Baq71Wkx.svg" alt="Rofiq Profile" width="200"/>
+</div>
