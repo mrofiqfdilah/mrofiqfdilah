@@ -1,10 +1,10 @@
 ```xml
-<rofiq>
+<mrofiqfdilah>
     <head>
         <title>About Me</title>
     </head>
     <body>
-        <about>
+        <p>
             Software engineer with 2+ years of professional experience delivering software solutions
             for both international and national clients.
 
@@ -12,16 +12,8 @@
             and I’ve got 10+ achievements so far (and will keep growing).
 
             I’m really interested in web development, including Web2, Web3, and web security.
-        </about>
-        <stack>
-            <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
-        </stack>
-        <links>
-            <website  url="https://mrofiqfadilah.site/" />
-            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah" />
-            <facebook url="https://web.facebook.com/rofiq.fadillah.77/" />
-        </links>
+        </p>
     </body>
-</rofiq>
+</mrofiqfdilah>
 ```
 
