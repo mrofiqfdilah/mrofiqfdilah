@@ -5,7 +5,7 @@
     </head>
     <body>
         <about>
-            Software engineer with 1.5 years of professional experience delivering software solutions
+            Software engineer with 2+ years of professional experience delivering software solutions
             for both international and national clients.
         </about>
         <stack>
