@@ -9,6 +9,7 @@
             for both international and national clients.
             An active competitor in software development and technology-based business competitions,
             with 10+ achievements and continuously growing.
+
             I’m really interested in web development, including Web2, Web3, and web security.
         </about>
         <stack>
