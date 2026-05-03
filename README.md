@@ -1,10 +1,4 @@
 ```xml
-<rofiq>
-    <head>
-        <title>About Me</title>
-    </head>
-    <body>
-        <p>
             Software engineer with 2+ years of professional experience delivering software solutions
             for both international and national clients.
 
@@ -12,8 +6,5 @@
             and I’ve got 10+ achievements so far (and will keep growing).
 
             I’m really interested in web development, including Web2, Web3, and web security.
-        </p>
-    </body>
-</rofiq>
 ```
 
