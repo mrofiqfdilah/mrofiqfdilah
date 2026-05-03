@@ -7,8 +7,9 @@
         <about>
             Software engineer with 2+ years of professional experience delivering software solutions
             for both international and national clients.
-            An active competitor in software development and technology-based business competitions,
-            with 10+ achievements and continuously growing.
+
+            I like joining software development and tech business competitions,
+            and I’ve got 10+ achievements so far (and will keep growing).
 
             I’m really interested in web development, including Web2, Web3, and web security.
         </about>
