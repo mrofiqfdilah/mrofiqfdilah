@@ -23,6 +23,6 @@
     </body>
 </rofiq>
     <profile>
-    <image src="https://i.pinimg.com/736x/06/b1/74/06b17490f9b5224923630fd6d7e7fe8d.jpg" alt="Rofiq Profile" />
+    <image src="https://www.mrofiqfadilah.site/assets/logo-Baq71Wkx.svg" alt="Rofiq Profile" />
 </profile>
 ```
