@@ -7,6 +7,6 @@ and I’ve got 10+ achievements so far (and will keep growing).
 
 I’m really interested in web development, including Web2, Web3, and web security.
 
-Fun fact i'm handsome.
+Fun fact i'm handsome xD.
 ```
 
