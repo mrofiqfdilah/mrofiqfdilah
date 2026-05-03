@@ -10,7 +10,6 @@
         </about>
         <stack>
             <technologies>Laravel, Express JS, React JS, Flutter, Tailwind CSS</technologies>
-            and still learn Python & C
         </stack>
         <links>
             <website  url="https://mrofiqfadilah.site/" />
