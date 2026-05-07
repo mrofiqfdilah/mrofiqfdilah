@@ -5,7 +5,7 @@ for both international and national clients.
 I like joining software development and tech business competitions,
 and I’ve got 10+ achievements so far (and will keep growing).
 
-I’m really interested in web development, including Web2, Web3, and web security.
+I’m really interested in web development, including Web2, Web3, and web securities
 
 Fun fact i'm handsome xD.
 ```
