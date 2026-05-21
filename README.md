@@ -5,5 +5,7 @@ software solutions for both international and national clients.
 Informatics Engineering student actively participating in software development
 and tech business competitions, earning 10+ awards and growing.
 
+Portfolio : mrofiqfadilah.site
+Linkedin  : linkedin.com/in/mrofiqfdilah
 ```
 
