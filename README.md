@@ -11,9 +11,7 @@
             Informatics Engineering student actively participating in software development
             and tech business competitions, earning 10+ awards and growing.
         </about>
-
         <technologies>Laravel, Codeigniter, Express Js, React Js, Tailwind CSS</technologies>
-
         <links>
             <portfolio url="https://www.mrofiqfadilah.site/" />
             <linkedin url="https://www.linkedin.com/in/mrofiqfdilah" />
