@@ -42,10 +42,6 @@
 
             and many more achievements to come...
         </achievements>
-
-        <motivation>
-            "[4/2, 21.22] ijul : gemastiknya kapan lek"
-        </motivation>
     </body>
 </rofiqazk>
 ```
