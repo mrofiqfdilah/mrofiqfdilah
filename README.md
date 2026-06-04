@@ -14,12 +14,12 @@
             Computer Vision, System Integration, Internet of Things (IoT)
         </skills>
 
-        <socials>
+        <social>
             <website  url="https://www.mrofiqfadilah.site/" />
             <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
-        </socials>
+        </social>
 
-        <achievements>
+        <achievements type="Technology">
             - National Finalist at TECHNOFEST AI 2026 (University of Bunda Mulia)
             - 1st Place at FESMARO in ICT Business field 2026 (State University of Malang)
             - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 (Tanah Laut State Polytechnic)
