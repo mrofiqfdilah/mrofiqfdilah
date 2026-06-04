@@ -1,9 +1,4 @@
 ```xml
-Software engineer with 2+ years of professional experience delivering
-software solutions for both international and national clients.
-```
-
-```xml
 <azk>
     <head>
         <title>Software Engineer</title>
@@ -15,12 +10,13 @@ software solutions for both international and national clients.
         </about>
 
         <skills>
-            Full-Stack Development, RESTful APIs, Computer Vision, System Integration, Internet Of Things (IoT)
+            Full-Stack Development, RESTful APIs, Progressive Web Apps (PWA),
+            Computer Vision, System Integration, Internet of Things (IoT)
         </skills>
 
         <socials>
-            <portfolio url="https://mrofiq.com" />
-            <linkedin url="https://linkedin.com/in/rofiq" />
+            <website  url="https://www.mrofiqfadilah.site/" />
+            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
         </socials>
     </body>
 </azk>
