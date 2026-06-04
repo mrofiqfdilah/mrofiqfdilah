@@ -14,10 +14,14 @@
             Computer Vision, System Integration, Internet of Things (IoT)
         </skills>
 
-        <social>
-            <website  url="https://www.mrofiqfadilah.site/" />
-            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
-        </social>
+        <projects>
+            - Nur Healing Landing Pages by Nur Healing Teams (United States, 2025)
+            - Paean Biotech Company Profile by Paean Biotechnology Company (South Korea, 2025)
+            - ICCS Summit Platform by BUMN (Indonesia, 2025)
+            - Appointment System by Direktorat Jenderal Beacukai (Indonesia, 2024)
+            - Digital Attendance by Kapolda Kalteng (Indonesia, 2024)
+            Explore more projects at: mrofiqfadilah.site/project
+        </projects>
 
         <achievements>
             - National Finalist at TECHNOFEST AI 2026 (University of Bunda Mulia)
@@ -33,6 +37,11 @@
             - 3rd Place at Desktop Development Competition 2023 (STMIK Palangka Raya)
             and many more achievements to come...
         </achievements>
+
+        <social>
+            <website  url="https://www.mrofiqfadilah.site/" />
+            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
+        </social>
     </body>
 </rofiqazk>
 ```
