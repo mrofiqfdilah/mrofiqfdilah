@@ -39,11 +39,6 @@
 
             and many more achievements to come...
         </achievements>
-
-        <social>
-            <website  url="https://www.mrofiqfadilah.site/" />
-            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
-        </social>
     </body>
 </rofiqazk>
 ```
