@@ -15,11 +15,11 @@
         </skills>
 
         <projects>
-            - Nur Healing Landing Pages by Nur Healing Teams (United States, 2025)
-            - Paean Biotech Company Profile by Paean Biotechnology Company (South Korea, 2025)
-            - ICCS Summit Platform by BUMN (Indonesia, 2025)
-            - Appointment System by Direktorat Jenderal Beacukai (Indonesia, 2024)
-            - Digital Attendance by Kapolda Kalteng (Indonesia, 2024)
+            - Developed Nur Healing Landing Pages for Nur Healing Team (United States, 2025)
+            - Developed Paean Biotech Company Profile for Paean Biotechnology Company (South Korea, 2025)
+            - Developed BUMN - ICCS Summit Platform for State Owned Enterprises (Indonesia, 2025)
+            - Developed Beacukai Appointment System for Directorate General of Customs & Excise (Indonesia, 2024)
+            - Developed Digital Attendance System for Central Kalimantan Regional Police (Indonesia, 2024)
             Explore more projects at: mrofiqfadilah.site/project
         </projects>
 
