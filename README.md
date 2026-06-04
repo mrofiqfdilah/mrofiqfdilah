@@ -43,9 +43,9 @@
             and many more achievements to come...
         </achievements>
 
-        <quote>
-            "[4/2, 21.22] Ijul : gemastiknya kapan lek"
-        </quote>
+        <motivation>
+            "[4/2, 21.22] ijul : gemastiknya kapan lek"
+        </motivation>
     </body>
 </rofiqazk>
 ```
