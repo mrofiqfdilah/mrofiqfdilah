@@ -19,7 +19,7 @@
             <linkedin url="https://www.linkedin.com/in/mrofiqfdilah/" />
         </social>
 
-        <achievements type="Technology">
+        <achievements>
             - National Finalist at TECHNOFEST AI 2026 (University of Bunda Mulia)
             - 1st Place at FESMARO in ICT Business field 2026 (State University of Malang)
             - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 (Tanah Laut State Polytechnic)
