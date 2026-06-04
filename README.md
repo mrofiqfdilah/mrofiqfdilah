@@ -13,8 +13,8 @@
         </about>
 
         <skills>
-            Full-Stack Development, RESTful APIs, Progressive Web Apps (PWA),
-            Computer Vision, System Integration, Internet of Things (IoT)
+            Full-Stack Development, Progressive Web Apps (PWA), Computer Vision,
+            System Integration, Internet of Things (IoT)
         </skills>
 
         <projects>
