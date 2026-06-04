@@ -20,8 +20,8 @@
         </socials>
 
         <achievements>
-            - Medallion for Excellence at LKS SMK National Level 2024 in Web Technologies field by Puspresnas, Kemendikbud RI, BPTI 📌
-            - National Finalist at FIKSI 2023 in Digital Technology field by Puspresnas, Kemendikbud RI, BPTI 📌
+            - Medallion Excellence at LKS SMK National Level 2024 in Web Technologies field by Puspresnas,Kemendikbud RI,BPTI 📌
+            - National Finalist at FIKSI 2023 in Digital Technology field by Puspresnas,Kemendikbud RI,BPTI 📌
             - National Finalist at TECHNOFEST AI 2026 by University of Bunda Mulia
             - 1st Place at FESMARO in ICT Business field 2026 by State University of Malang
             - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 by Tanah Laut State Polytechnic
