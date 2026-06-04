@@ -20,17 +20,17 @@
         </socials>
 
         <achievements>
-            - Medallion Excellence at LKS SMK National Level 2024 in Web Technologies field by Puspresnas,Kemendikbud RI,BPTI 📌
-            - National Finalist at FIKSI 2023 in Digital Technology field by Puspresnas,Kemendikbud RI,BPTI 📌
-            - National Finalist at TECHNOFEST AI 2026 by University of Bunda Mulia
-            - 1st Place at FESMARO in ICT Business field 2026 by State University of Malang
-            - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 by Tanah Laut State Polytechnic
-            - 1st Place at LKS SMK Provincial Level 2024 in Web Technologies by Central Kalimantan Education Office
-            - 1st Place at LKS SMK Regency Level 2024 in Web Technologies by East Kotawaringin Education Office
-            - 1st Place at Informatics Engineering Software Development Festival 2023 by University of Palangkaraya
-            - 2nd Place at LKS SMK Provincial Level 2023 in Web Technologies by Central Kalimantan Education Office
-            - 1st Place at LKS SMK Regency Level 2024 in Web Technologies by East Kotawaringin Education Office
-            - 3rd Place at Desktop Development Competition 2023 by STMIK Palangka Raya
+            - Medallion Excellence at LKS SMK National Level 2024 in Web Technologies field (Puspresnas,Kemendikbud RI,BPTI) 📌
+            - National Finalist at FIKSI 2023 in Digital Technology field (Puspresnas,Kemendikbud RI,BPTI) 📌
+            - National Finalist at TECHNOFEST AI 2026 (University of Bunda Mulia)
+            - 1st Place at FESMARO in ICT Business field 2026 (State University of Malang)
+            - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 (Tanah Laut State Polytechnic)
+            - 1st Place at LKS SMK Provincial Level 2024 in Web Technologies (Central Kalimantan Education Office)
+            - 1st Place at LKS SMK Regency Level 2024 in Web Technologies (East Kotawaringin Education Office)
+            - 1st Place at Informatics Engineering Software Development Festival 2023 (University of Palangkaraya)
+            - 2nd Place at LKS SMK Provincial Level 2023 in Web Technologies (Central Kalimantan Education Office)
+            - 1st Place at LKS SMK Regency Level 2024 in Web Technologies (East Kotawaringin Education Office)
+            - 3rd Place at Desktop Development Competition 2023 (STMIK Palangka Raya)
             and many more achievements to come...
         </achievements>
     </body>
