@@ -20,7 +20,8 @@
             - Developed BUMN ICCS Summit Platform for State Owned Enterprises (Indonesia, 2025)
             - Developed Beacukai Appointment System for Directorate General of Customs and Excise (Indonesia, 2024)
             - Developed Digital Attendance System for Central Kalimantan Regional Police (Indonesia, 2024)
-            Explore more projects at: mrofiqfadilah.site/project
+
+            <more_projects url="https://mrofiqfadilah.site/project" />
         </projects>
 
         <achievements>
@@ -35,6 +36,7 @@
             - 2nd Place at LKS SMK Provincial 2023 in Web Technology (Central Kalimantan Education Office)
             - 1st Place at LKS SMK Regency 2024 in Web Technology (East Kotawaringin Education Office)
             - 3rd Place at Desktop Development Competition 2023 (STMIK Palangka Raya)
+
             and many more achievements to come...
         </achievements>
 
