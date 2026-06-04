@@ -7,6 +7,9 @@
         <about>
             Software engineer with 2+ years of professional experience delivering
             software solutions for both international and national clients.
+
+            Pursuing a degree in Informatics Engineering with a strong commitment
+            to deepening knowledge in technology, while also exploring research in robotics.
         </about>
 
         <skills>
