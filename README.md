@@ -5,11 +5,11 @@
     </head>
     <body>
         <about>
-            Software engineer with 2+ years of professional experience delivering
-            software solutions for both international and national clients.
+            Software engineer with 2+ years of professional experience
+            delivering software solutions for both international and national clients.
 
-            Pursuing a degree in Informatics Engineering with a strong commitment
-            to deepening knowledge in technology, while also exploring research in robotics.
+            Currently pursuing a degree in Informatics Engineering, with a strong
+            commitment to expanding expertise in technology and an interest in robotics research.
         </about>
 
         <skills>
