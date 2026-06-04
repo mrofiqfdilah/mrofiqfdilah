@@ -46,8 +46,6 @@
         <quote>
             "[4/2, 21.22] Ijul : gemastiknya kapan lek"
         </quote>
-
-
     </body>
 </rofiqazk>
 ```
