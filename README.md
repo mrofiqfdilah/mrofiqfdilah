@@ -28,7 +28,7 @@
         </projects>
 
         <achievements>
-            - National Finalist at TECHNOFEST AI 2026 (University of Bunda Mulia)
+            - National Finalist at TECHNOFEST Ai 2026 (University of Bunda Mulia)
             - 1st Place at FESMARO in ICT Business field 2026 (State University of Malang)
             - 1st Place and Best Solution Award at SMK-PK Apps Competition 2024 (Tanah Laut State Polytechnic)
             - Medallion Excellence at LKS SMK National 2024 in Web Technology field (Puspresnas,Kemendikbud RI,BPTI)
