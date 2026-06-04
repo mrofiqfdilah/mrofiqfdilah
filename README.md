@@ -15,7 +15,7 @@
         </skills>
 
         <projects>
-            - Developed Nur Healing Landing Pages for Nur Healing Team (United States, 2025)
+            - Developed Nur Healing Apps Landing Pages for Nur Healing Team (United States, 2025)
             - Developed Paean Biotech Company Profile for Paean Biotechnology Company (South Korea, 2025)
             - Developed BUMN - ICCS Summit Platform for State Owned Enterprises (Indonesia, 2025)
             - Developed Beacukai Appointment System for Directorate General of Customs and Excise (Indonesia, 2024)
