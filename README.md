@@ -1,6 +1,4 @@
 ```xml
-<?php
-
 $username = "RofiqazK";
 $role = "Software Engineer";
 
