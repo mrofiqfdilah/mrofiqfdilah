@@ -1,7 +1,7 @@
 ```xml
 <?php
 
-$name = "M Rofiq Fadilah";
+$username = "RofiqazK";
 $role = "Software Engineer";
 
 $about = "
@@ -18,5 +18,10 @@ $skills = [
     'Computer Vision',
     'System Integration',
     'Internet of Things (IoT)',
+];
+
+$contact = [
+    'website' => 'https://mrofiqfadilah.site',
+    'linkedin' => 'https://www.linkedin.com/in/mrofiqfdilah/',
 ];
 ```
