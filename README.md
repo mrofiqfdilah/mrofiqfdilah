@@ -1,7 +1,7 @@
 ```xml
 <?php
 
-$username = "RofiqazK";
+$username = "Rofiqazk";
 $role = "Software Engineer";
 
 $about = "
