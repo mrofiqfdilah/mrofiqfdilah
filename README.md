@@ -1,7 +1,7 @@
 ```xml
 <rofiqazk>
     <head>
-        <title>Building High-Quality Products</title>
+        <title>Product Perfectionist</title>
     </head>
     <body>
         <about>
