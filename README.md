@@ -1,7 +1,7 @@
 ```xml
 <rofiqazk>
     <head>
-        <title>Software Engineer</title>
+        <title>Building High-Quality Products</title>
     </head>
     <body>
         <about>
