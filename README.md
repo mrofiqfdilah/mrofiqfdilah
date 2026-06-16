@@ -10,8 +10,8 @@
         </about>
         <technologies>Laravel, Express, Flask, React, Flutter, Tailwind</technologies>
         <socials>
-            <social type="linkedin" url="https://www.linkedin.com/in/mrofiqfdilah" />
-            <social type="website" url="https://mrofiqfadilah.site/" />
+            <linkedin url="https://www.linkedin.com/in/mrofiqfdilah" />
+            <website url="https://mrofiqfadilah.site/" />
         </socials>
     </body>
 </rofiqazk>
