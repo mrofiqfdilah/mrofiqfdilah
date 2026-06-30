@@ -1,12 +1,12 @@
 ```xml
 <rofiqazk>
     <head>
-        <title>Quality-Driven Engineer</title>
+        <title>Web Design and Development Specialist</title>
     </head>
     <body>
         <about>
-            Software engineer with 2+ years of professional experience delivering
-            software solutions for both international and national clients.
+            Software Engineer with 2+ years of experience building
+            software solutions for national and international clients.
         </about>
         <technologies>Laravel, Express, Flask, React, Flutter, Tailwind</technologies>
         <socials>
