@@ -1,5 +1,5 @@
 ```xml
-<rofiqazk>
+<rofiq>
     <head>
         <title>Web Design and Development Specialist</title>
     </head>
@@ -14,5 +14,5 @@
             <website url="https://mrofiqfadilah.site/" />
         </socials>
     </body>
-</rofiqazk>
+</rofiq>
 ```
