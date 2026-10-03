@@ -1,4 +1,6 @@
-Hi, I'm Rofiq. I turn research into products people actually use.
+An
+================
+Full-stack developer from Subang, West Java.Hi, I'm Rofiq. I turn research into products people actually use.
 I have 2+ years of professional experience building software solutions for local and international clients.
 
 What I'm Doing Now
