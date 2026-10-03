@@ -1,7 +1,17 @@
-Hi, I'm Rofiq. I turn research into products people actually use.
-I have 2+ years of professional experience building software solutions for local and international clients.
-
-What I'm Doing Now
-------------------
-* Software Developer at Waiki Digital (PT Elsya Innovation Group)
-* Informatics undergraduate student at Malang State University
+```xml
+<rofiq>
+    <head>
+        <title>Rofiq Profile</title>
+    </head>
+    <body>
+        <about>
+            Hi, I'm Rofiq. I have 2+ years of professional experience
+            building software solutions for national and international clients.
+        </about>
+        <now>
+           <role>Software Developer at Waiki Digital (PT Elsya Innovation Group)</role>
+           <education>Informatics undergraduate student at Malang State University</education>
+        </now>
+    </body>
+</rofiq>
+```
