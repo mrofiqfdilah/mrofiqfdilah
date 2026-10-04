@@ -1,7 +1,7 @@
 ```xml
 <rofiq>
     <head>
-        <title>Rofiq Profile</title>
+        <title>Profile</title>
     </head>
     <body>
         <about>
