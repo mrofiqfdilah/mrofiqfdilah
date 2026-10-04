@@ -9,8 +9,12 @@
             for national and international clients.
         </about>
         <now>
-           <role>Software Developer at Waiki Digital (PT Elsya Innovation Group)</role>
-           <education>Informatics undergraduate student at Malang State University</education>
+           <role>
+               Software Developer at Waiki Digital (PT Elsya Innovation Group)
+           </role>
+           <education>
+               Informatics undergraduate student at Malang State University
+          </education>
         </now>
     </body>
 </rofiq>
