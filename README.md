@@ -10,7 +10,7 @@
         </about>
         <now>
            <role>
-               Software Developer at Waiki Digital (PT Elsya Innovation Group)
+               Software Engineer at Waiki Digital (PT Elsya Innovation Group)
            </role>
            <education>
                Informatics undergraduate student at Malang State University
